@@ -12,7 +12,7 @@
 <br>
 <p align="center">The Synchronized Protocols native token WTISDR is a non-dilutive, supply-elastic, utility BEP-20 token built on the Binance Smart Chain.
 <br>
-<br><b>WTISDR token contract - 0x365aFC3352C1436657dFF40c1Ef4E4EfdE238d27</b></p>
+<br><b><a href="https://bscscan.com/address/0x365aFC3352C1436657dFF40c1Ef4E4EfdE238d27#code">WTISDR token contract - 0x365aFC3352C1436657dFF40c1Ef4E4EfdE238d27</a></b></p>
 <br>
 <br>
 <p align="center">Below is the contract for the Standard token xWTISDR, which represents a share of WTISDR that is deposited in a token pool that is affected by rebasements, while xWTISDR is unaffected by rebasements. The use of the xWTISDR token is applied on platforms which dont support supply elastic rebase tokens yet.
