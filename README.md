@@ -20,11 +20,16 @@
 <br>
 <br>
 <p align="center">This is the rebase oracle contract which is used to conduct rebase cycles. The protocol is utilizing the two synchronized rebase input variables - WTI and SDR - as transmitters of the global economic sentiment pulse into DeFi. 
-<br><br><b>sprotocolOracle contract - 0x885C00125AaF2bf16d4A527b33BFEE20Ae5E121c</p></b>
+<br><br>Synchronized Protocol "Sprotocol" introduces the first crypto hedge utilizing the Crude Oil WTI futures via Chainlink, which is providing tamper-proof blockchain oracles for hybrid smart contracts. Additionaly, the Synchronized Protocol token is pegged to the Special Drawing Rights (SDR). SDR is an international reserve asset, composed of the U.S. Dollar, Euro, GBP, Chinese Yuan, and Japanese Yen.
+<br><br><b>sprotocolOracle contract - 0x885C00125AaF2bf16d4A527b33BFEE20Ae5E121c</b>
 <br>
 <br>
+Due to the fact that this is a supply-elastic utility, it´s architecture allows supply adjustments, or 
+rebases, to alter the total supply across the Synchronized Protocol’s network. Therefore the number 
+of WTISDR tokens a holder owns may increase or decrease on a daily basis without impacting that 
+user’s ownership of the total network. <br></p>
 <br>
-
+<br>
 
 
 
