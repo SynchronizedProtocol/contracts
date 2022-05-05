@@ -37,4 +37,5 @@ user’s ownership of the total network. <br></p>
    <img src="https://user-images.githubusercontent.com/92101634/138486768-49538117-8105-421f-8945-087be11286f4.png"/>
 </p>
 
-
+The Synchronized Protocol smart contracts are a fork of Benchmark Protocol.
+Copyright BenchmarkProtocol.finance: MIT licence
